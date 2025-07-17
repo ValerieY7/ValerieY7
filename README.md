@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Valerie Ye
+I'm currently a college student studying global public health sciences, interested in how coding and machine learning can be leveraged into the medical field. I hope to broaden my horizons in various fields through research, creation, and community engagement. 
 <!--
 **ValerieY7/ValerieY7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Current Projects
+
+### Languages 
+
+### Contact Information  📞 · 📩 · ☎️ 
+Please feel free to connect with me on [linkedin](https://www.linkedin.com/in/valerie-ye-5b309a240/) or send me an email at yeeevalerie@gmail.com 
