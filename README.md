@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### A bit about me
 I just graduated from high school and am spending my summer exploring new subjects including sharpening my coding skills before college. I'm especially interested in how technology intersects with real-world problems—whether that’s through public health, education, or creative websites.
-- 🔭 I’m currently working on HTML, CSS, JavaScript
+- 🔭 I’m currently working on **HTML, CSS, JavaScript**
 
 ### Experience
 Much of my experience throughout highschool includes volunteering- especially in culturally diverse settings. 
-- ⛩️ _Chinatown Youth Initiative_ (Aiding Chinese immigrants in attaining higher English proficiency)
-- 🌍 _The World In Us_ (Youth led initiative promoting cultural awareness across the world) 
+- ⛩️ **_Chinatown Youth Initiative_** (Aiding Chinese immigrants in attaining higher English proficiency)
+- 🌍 **_The World In Us_** (Youth led initiative promoting cultural awareness across the world) 
 
 ### Contact Information  📞 · 📩 · ☎️ 
-Please feel free to connect with me on ***[linkedin](https://www.linkedin.com/in/valerie-ye-5b309a240/)*** or send me an email at ***yeeevalerie@gmail.com*** 
+Please feel free to connect with me on **[linkedin](https://www.linkedin.com/in/valerie-ye-5b309a240/)** or send me an email at **yeeevalerie@gmail.com**
