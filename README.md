@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### A bit about me
 I just graduated from high school and am spending my summer exploring new subjects including sharpening my coding skills before college. I'm especially interested in how technology intersects with real-world problems—whether that’s through public health, education, or creative websites.
 - 🔭 I’m currently working on **HTML, CSS, JavaScript**
+#### My favorite quote
+>He who has a why to live can bear almost any how
 
 ### Experience
 Much of my experience throughout highschool includes volunteering- especially in culturally diverse settings. 
