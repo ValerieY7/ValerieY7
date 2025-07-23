@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Valerie Ye
-I'm currently a college student studying global public health sciences, with an interest in tech and machine learning to understand and address the complex systems that shape people’s well-being. Seeing tech not only as an innovation but also as a means of social good, I hope to broaden my horizons in these fields through research, creation, and community engagement. 
+I'm currently a college student studying global public health sciences, with an interest in tech and machine learning to understand and address the complex systems that shape people’s well-being. Seeing tech not only as an innovation but also as a means of social good, I hope to broaden my horizons in this field through research, creation, and community engagement. 
 <!--
 **ValerieY7/ValerieY7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
