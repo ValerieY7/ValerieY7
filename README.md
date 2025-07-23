@@ -22,7 +22,7 @@ I just graduated from high school and am spending my summer exploring new subjec
 ### Experience
 Much of my experience throughout highschool includes volunteering- especially in culturally diverse settings. 
 - ⛩️ Chinatown Youth Initiative (Aiding Chinese immigrants in attaining higher English proficiency)
-- 🌍 The World In US (Youth led initiative prommoting cultural awareness across the world) 
+- 🌍 The World In US (Youth led initiative promoting cultural awareness across the world) 
 
 ### Contact Information  📞 · 📩 · ☎️ 
 Please feel free to connect with me on [linkedin](https://www.linkedin.com/in/valerie-ye-5b309a240/) or send me an email at yeeevalerie@gmail.com 
